@@ -40,10 +40,5 @@ the following command to test it in the console.
 # Demo of Chatbot
 
 
-![DEMO](../master/1.png)
-
-![DEMO](../master/2.png)
-
-![DEMO](../master/3.png)
 ![DEMO](../master/chatbot_demo.gif)
 
