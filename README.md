@@ -1,5 +1,8 @@
-# Chatbot - Mason with Flask and JavaScript
+# Chatbot - Mason
 
+Build a custom chatbot in Python and then integrate this to a website using Flask and
+JavaScript. The model can train data from intents and gives appropriate customized
+responses.
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
